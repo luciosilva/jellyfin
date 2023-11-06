@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2023-11-06T04:42:23.1434549Z","EndTimeUtc":"2023-11-06T04:42:23.1575603Z","Status":"Completed","Name":"Limpar pasta de transcodifica\u00E7\u00E3o","Key":"DeleteTranscodeFiles","Id":"7d8088c10902f1bf4072ded42437bcfb"}

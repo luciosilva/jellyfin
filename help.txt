@@ -1,0 +1,4 @@
+C:\projetos\jellyfin\config
+C:\projetos\jellyfin\cache
+C:\projetos\jellyfin\media
+docker compose up -d
